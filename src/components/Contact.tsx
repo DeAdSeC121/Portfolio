@@ -78,7 +78,7 @@ const Contact: React.FC = () => {
                 <div className="p-3 bg-gray-100 rounded-full">
                   <Github size={20} />
                 </div>
-                <span>github.com/yourusername</span>
+                <span>https://github.com/DeAdSeC121</span>
               </a>
             </div>
             
