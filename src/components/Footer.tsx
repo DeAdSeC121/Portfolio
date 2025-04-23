@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
               <Mail size={20} />
             </a>
             <a 
-              href="https://github.com/yourusername" 
+              href="https://github.com/DeAdSeC121" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 bg-gray-800 rounded-full hover:bg-gray-700 transition-colors"

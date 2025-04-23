@@ -53,7 +53,7 @@ const Contact: React.FC = () => {
               debugging, testing, and web design. Feel free to reach out if you have an 
               opportunity that matches my skills.
             </p>
-            
+
             <div className="space-y-4 mb-8">
               <a 
                 href="mailto:your.email@gmail.com" 
@@ -64,13 +64,8 @@ const Contact: React.FC = () => {
                 </div>
                 <span>your.email@gmail.com</span>
               </a>
-              
               <a 
-
                 href="https://github.com/DeAdSeC121" 
-
-                
-
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-gray-700 hover:text-black transition-colors"
@@ -81,12 +76,10 @@ const Contact: React.FC = () => {
                 <span>https://github.com/DeAdSeC121</span>
               </a>
             </div>
-            
             <p className="text-gray-600">
               Response time: <span className="font-medium">within 24 hours</span>
             </p>
           </div>
-          
           <div>
             <form onSubmit={handleSubmit} className="space-y-4">
               <div>
