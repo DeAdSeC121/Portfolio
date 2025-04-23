@@ -66,7 +66,7 @@ const Contact: React.FC = () => {
               </a>
               
               <a 
-                href="https://github.com/yourusername" 
+                href="https://github.com/DeAdSeC121" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-gray-700 hover:text-black transition-colors"
